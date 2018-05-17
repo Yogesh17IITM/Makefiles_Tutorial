@@ -1,5 +1,11 @@
 # Makefiles_Tutorial </br>
 
+Structure of basic Makefile </br>
+
+target: dependencies </br>
+[tab] system command </br>
+
+
 https://yogesh17iitm.github.io/Makefiles_Tutorial/ </br>
 
 Important Links: </br>
