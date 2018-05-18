@@ -13,8 +13,8 @@ Following files have been used for demonstrating Basic Makefiles.
 
 The same has been utilised for Advanced also. So kindly copy those files to the Advanced directory.
 
-The code is tested in Linux environment (Ubuntu). </br>
-Requirements: GNU make, GCC compiler </br>
+The code is tested in Linux environment (Ubuntu). 
+Requirements: GNU make, GCC compiler 
 
 Get uopdates on:  https://yogesh17iitm.github.io/Makefiles_Tutorial/
 
