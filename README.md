@@ -1,9 +1,9 @@
-# Makefiles_Tutorial 
+# Makefiles Tutorial 
 
-## Structure of basic Makefile </br>
+## Structure of basic Makefile 
 
-> target: dependencies </br>
-> [tab] system command </br>
+> target: dependencies
+> [tab] system command 
 
 Following files have been used for demonstrating Basic Makefiles. </br>
 1) hello.cpp </br>
