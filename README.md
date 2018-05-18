@@ -2,8 +2,8 @@
 
 ## Structure of basic Makefile 
 
-> target: dependencies
-> [tab] system command 
+### target: dependencies
+### <tab> system command 
 
 Following files have been used for demonstrating Basic Makefiles. 
 >1) hello.cpp </br>
