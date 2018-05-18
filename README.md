@@ -5,12 +5,12 @@
 > target: dependencies </br>
 > [tab] system command </br>
 
+Following files have been used for demonstrating Basic Makefiles. </br>
+1) hello.cpp </br>
+2) main.cpp </br>
+3) factorial.cpp </br>
+4) function.h </br>
 
-https://yogesh17iitm.github.io/Makefiles_Tutorial/ </br>
+The same has been utilised for Advanced also. So kindly copy those files to the Advanced directory.
 
-Important Links: </br>
-1) http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/ </br>
-2) http://mrbook.org/blog/tutorials/make/ </br>
-3) https://www.wooster.edu/_media/files/academics/areas/computer-science/resources/makefile-tut.pdf </br>
-4) https://www.codeproject.com/Articles/31488/Makefiles-in-Linux-An-Overview </br>
-5) https://www.cprogramming.com/tutorial/makefiles.html </br>
+
