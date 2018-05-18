@@ -1,5 +1,7 @@
 #	Using dependencies
 #	^^^^^^^^^^^^^^^^^^
+#	This allows us to compile specific files.
+#	You can try this by typing "make <dependency>", say for eg. make hello.o
 
 all: hello
 
