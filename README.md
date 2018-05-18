@@ -16,6 +16,6 @@ The same has been utilised for Advanced also. So kindly copy those files to the 
 The code is tested in Linux environment (Ubuntu). 
 Requirements: GNU make, GCC compiler 
 
-Get uopdates on:  https://yogesh17iitm.github.io/Makefiles_Tutorial/
+Get more updates on:  https://yogesh17iitm.github.io/Makefiles_Tutorial/
 
 
