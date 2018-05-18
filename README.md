@@ -11,6 +11,9 @@ Following files have been used for demonstrating Basic Makefiles. </br>
 3) factorial.cpp </br>
 4) function.h </br>
 
-The same has been utilised for Advanced also. So kindly copy those files to the Advanced directory.
+The same has been utilised for Advanced also. So kindly copy those files to the Advanced directory.</br>
+
+The code is tested in Linux environment (Ubuntu). </br>
+Requirements: GNU make, GCC compiler </br>
 
 
