@@ -1,4 +1,4 @@
-This is a simple example used to demonstrate how make file works !!!
+This is a simple example used to demonstrate how makefile works !!!
 
 last edited by Yogesh on May, 2018 (c) Yogeshwaran R, yogeshwaranrubin@gmail.com
 
@@ -13,6 +13,4 @@ To see how it works, simply type "make" in the CURRENT DIRECTORY.
 
 The make command will look for the Makefile/makefile by default and execute the bash commands in the makefile (Sequentially).
 
-Note:
-In this case, the command will direct to switch from CURRENT DIR. to WORKING DIR. during the process.
-Once the program is completed, the results are then copied to CURRENT DIRECTORY
+
